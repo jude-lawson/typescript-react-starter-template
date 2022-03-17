@@ -13,10 +13,15 @@
   - (WIP) CSS Loader
 
 ## Usage
+Note: These instructions are for the out of the box template. Once you start to diverge from the template, these instructions will no longer apply.
+
 - Clone this repo.
 - Copy its contents.
 - Remove the `.git` folder.
 - Run `git init` in the copied directory to start your own repo for your project.
+- Run `yarn start` to run a simple `webpack-dev-server` command get started.
+- Visit `http://localhost:3000` to see `Hello, World` in the browser.
+- Have fun coding.
 
 ## Caveats
 - This template is subject to change and does not guarantee long-term support; it's just a template. Fork this or clone and change it to get up and running.
