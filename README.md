@@ -6,7 +6,7 @@
 - Typescript (.ts, .tsx)
 - React (the standard library)
 - Babel transpilation
-  - Adding `presetn-env` for all the polyfills is a WIP
+  - Adding `preset-env` for all the polyfills is a WIP
 - Webpack configuration
   - Typescript loading
   - Dev-server (with hot module reloading)
@@ -16,7 +16,7 @@
 - Clone this repo.
 - Copy its contents.
 - Remove the `.git` folder.
-- Run `git init` in the copied directory to start your oen repo for your project.
+- Run `git init` in the copied directory to start your own repo for your project.
 
 ## Caveats
 - This template is subject to change and does not guarantee long-term support; it's just a template. Fork this or clone and change it to get up and running.
